@@ -12,6 +12,13 @@
    "tokens":[
       {
          "chainId":42,
+         "address":"0x7079f3762805cff9c979a5bdc6f5648bcfee76c8",
+         "symbol":"USDC",
+         "decimals":18,
+         "name":"USDC"
+      },
+      {
+         "chainId":42,
          "address":"0x57ab1ec28d129707052df4df418d58a2d46d5f51",
          "symbol":"sUSD",
          "decimals":18,
@@ -24,5 +31,6 @@
          "decimals":18,
          "name":"DAI"
       }
+      
    ]
 }
